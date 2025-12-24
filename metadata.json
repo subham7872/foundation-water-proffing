@@ -1,0 +1,7 @@
+{
+  "name": "AFS Foundation & Waterproofing Specialists",
+  "description": "Professional foundation repair, basement waterproofing, and crawl space encapsulation website for AFS, featuring lead capture and an AI-powered home health assistant.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
